@@ -1,0 +1,1 @@
+[Stomp](http://stomp.codehaus.org) is an wire protocol , used by [ActiveMQ](http://activemq.org). Stomp Framework is an cocoa framework, written in Objective-C, which implements the wire protocol. Refer to HowToUse page for details on using this framework in your project.
